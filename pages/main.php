@@ -1,9 +1,9 @@
 <?php
-	$title = 'Title';
+	$title = 'Главная';
 	function loadContent() {
 ?>
 
-<h2>Title</h2>
+<h2>Главная страница</h2>
 
 <?php
 	}
